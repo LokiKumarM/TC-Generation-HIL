@@ -1,4 +1,4 @@
-<h1>📝 AI-Powered Test Case Generation with human in loop</h1>
+<h1>📝 AI-Powered Test Case Generation with Human in Loop</h1>
 
 Welcome to the AI-Powered Test Case Generation project! 🚀 This repository showcases an advanced Generative AI application that automates the process of test case generation from system requirements, optimizing software validation and reducing manual effort.
 
